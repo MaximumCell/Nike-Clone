@@ -28,7 +28,7 @@ const SpecialOffer = () => {
                 <div className="mt-11 flex flex-wrap gap-4">
 
                 <Button lable = "Shop Now" iconUrl={arrowRight}/>
-                <button className="bg-white border-slate-gray flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none bg-coral-red rounded-full border-coral-red">Learn more</button>
+                <button className="bg-white border-slate-gray flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none rounded-full">Learn more</button>
                 </div>
                 </div>
     </section>
